@@ -20,7 +20,7 @@ def html():
         </div>
         <br>
         <div class="list-group">
-            <p>Dalam dataset ini memiliki beberapa fitur dan 1 class yaitu class quality. <strong>Fitur yang terdapat dalam dataset ini yaitu :</strong></p>
+            <p>Dalam dataset ini memiliki beberapa fitur dan 1 class yaitu class Color. <strong>Fitur yang terdapat dalam dataset ini yaitu :</strong></p>
             <ol class="list-group list-group-numbered">
                 <li class="list-group-item">fixed_acidity</li>
                 <li class="list-group-item">volatile_acidity</li>
@@ -32,6 +32,7 @@ def html():
                 <li class="list-group-item">pH</li>
                 <li class="list-group-item">sulphates</li>
                 <li class="list-group-item">alcohol</li>
+                <li class="list-group-item">quality</li>
             </ol>
         </div>
     </div>
