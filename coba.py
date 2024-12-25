@@ -1,2 +1,2 @@
-import streamlit
-print(streamlit.__version__)
+import imblearn
+print(imblearn.__version__)
