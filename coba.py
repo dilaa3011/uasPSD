@@ -1,2 +1,2 @@
-import sklearn
-print(sklearn.__version__)
+import streamlit
+print(streamlit.__version__)

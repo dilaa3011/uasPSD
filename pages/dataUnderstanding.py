@@ -33,6 +33,7 @@ def html():
                 <li class="list-group-item">sulphates</li>
                 <li class="list-group-item">alcohol</li>
                 <li class="list-group-item">quality</li>
+                <li class="list-group-item">color</li>
             </ol>
         </div>
     </div>
